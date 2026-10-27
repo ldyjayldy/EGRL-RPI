@@ -1,0 +1,17 @@
+DEFAULT_CONFIG = {
+    "hidden_dim": 128,
+    "gat_heads": 4,
+    "num_gat_layers": 2,
+    "dropout": 0.2,
+    "lr": 1e-4,
+    "weight_decay": 1e-4,
+    "batch_size": 256,
+    "clip_grad": 1.0,
+    "sim_k": 10,
+    "sim_drop_ratio": 0.1,
+    "lambda_gen": 0.1,
+    "cold_ratio": 0.05,
+    "epochs": 300,
+    "gamma": 1.0,
+    "threshold": 0.5,
+}
