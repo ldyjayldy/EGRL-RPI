@@ -7,7 +7,7 @@ EGRL: Edge Generation-Guided Relation-Aware Learning for RNA-Protein Interaction
 - `egrl/` : Common code
 - `experiments/` : experiment entry points
 - `data/` : Data directory
-- `results/` : Output directory
+- `Supplementary Material/` : Query-level evaluation records and fold-level predictions
 
 ## Installation
 
