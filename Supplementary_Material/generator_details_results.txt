@@ -11,13 +11,13 @@ RNA aupr: 0.5971 ± 0.1803
 RNA auroc: 0.9536 ± 0.0351
 RNA p@5: 0.4145 ± 0.2381
 RNA p@10: 0.3306 ± 0.1875
-RNA random AUPR: 0.0066 ± 0.0083
+RNA random AUPR: 0.0078 ± 0.0083
 
 PROT aupr: 0.3865 ± 0.1588
 PROT auroc: 0.8941 ± 0.1013
 PROT p@5: 0.6054 ± 0.2353
 PROT p@10: 0.7004 ± 0.2104
-PROT random AUPR: 0.0011 ± 0.0391
+PROT random AUPR: 0.0012 ± 0.0391
 
 --- Per-run seed & sampling summary ---
 # run	seed	N_holdout_RNA	N_holdout_PROT	N_eval_RNA	N_eval_PROT
